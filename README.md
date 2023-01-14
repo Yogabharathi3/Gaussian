@@ -24,9 +24,6 @@ Step 7: Use back substitution method to find the value of the variables and prin
 
 Step 8: End the program.
 
- 
- 
-
 ## Program:
 ```
 /*
